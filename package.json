@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "brunch": "^2.4.2",
+    "jade-pages-brunch": "^2.0.0",
+    "stylus-brunch": "^2.0.0",
+    "clean-css-brunch": "^2.0.0",
+    "livescript-brunch": "^2.0.0"
+  }
+}
