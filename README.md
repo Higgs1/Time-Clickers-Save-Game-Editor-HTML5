@@ -4,6 +4,8 @@ A simple Time Clickers save game decoder / editor HTML5 application. Also an exa
 
 View the app here: https://higgs1.github.io/Time-Clickers-Save-Game-Editor-HTML5/public
 
+View the algorithm here: https://github.com/Higgs1/Time-Clickers-Save-Game-Editor-HTML5/wiki
+
 **Note:** This project is only for educational purposes and/or for having fun. Please do not use for cheating!!! Thanks :)
 
 ## How to Fork
