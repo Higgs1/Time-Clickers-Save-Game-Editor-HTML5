@@ -7,3 +7,4 @@ module.exports = config:
     definition:  no
   optimize:      yes
   sourceMaps:    no
+  npm: enabled:  no
